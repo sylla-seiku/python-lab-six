@@ -25,3 +25,8 @@ class Dice:
 
 dice = Dice()
 print(dice.roll())
+
+
+
+name = input('Enter Name=>')
+print(name)
